@@ -23,7 +23,7 @@ const projects = [
         name: 'App-Clima',
         deploy:'https://app-clima-weld.vercel.app/' ,
         repository: 'https://github.com/gabito1966/App-clima',
-        image: '/clima.png',
+        image: '/Clima.png',
         description:'App de clima por ciudad'
     },
 
