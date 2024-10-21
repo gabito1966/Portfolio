@@ -18,6 +18,14 @@ const projects = [
         image: '/barberia.png',
         description:'App de la barberia Scissors'
     },
+    {
+        id:3,
+        name: 'App-Clima',
+        deploy:'https://app-clima-weld.vercel.app/' ,
+        repository: 'https://github.com/gabito1966/App-clima',
+        image: '/clima.png',
+        description:'App de clima por ciudad'
+    },
 
 ]
 
